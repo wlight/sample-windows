@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://D:/work/o-star/courses/supersafari/app/v3.1/develop/code/api/.idea/api.iml" filepath="D:/work/o-star/courses/supersafari/app/v3.1/develop/code/api/.idea/api.iml" />
+      <module fileurl="file://D:/work/o-star/courses/supersafari/web/v2.0/develop/code/.idea/code.iml" filepath="D:/work/o-star/courses/supersafari/web/v2.0/develop/code/.idea/code.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/sample-windows.iml" filepath="$PROJECT_DIR$/.idea/sample-windows.iml" />
       <module fileurl="file://D:\study\sample-windows\sample-windows\.idea\sample-windows.iml" filepath="D:\study\sample-windows\sample-windows\.idea\sample-windows.iml" />
     </modules>

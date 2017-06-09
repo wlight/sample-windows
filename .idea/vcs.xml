@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="D:/work/o-star/courses/supersafari/app/v3.1/develop/code/api" vcs="svn" />
+    <mapping directory="D:/work/o-star/courses/supersafari/web/v2.0/develop/code" vcs="svn" />
   </component>
 </project>
